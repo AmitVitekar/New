@@ -3,7 +3,7 @@
 A = int( input ("Please Enter Number : "))
 B = int (input ("Please Enter the power: "))
 
-print (f"Cube of {A} is :", A**B)
+print (f"power of {A} is :", A**B)
 
 # Create a program that takes two numbers as input and prints whether
 # the first number is greater than, less than, or equal to the second number.
